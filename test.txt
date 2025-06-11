@@ -1,1 +1,5 @@
-# practice
+# practice  
+hello world
+devops practice session
+creating a files 
+
